@@ -38,11 +38,11 @@ Phát triển giao diện bằng HTML và CSS: Giao diện người dùng đư�
 
 Công Nghệ và Tools
 
-Ngôn ngữ lập trình: HTML, CSS cho phát triển giao diện; JavaScript cho các tương tác phía client và một ngôn ngữ phía server như Python hoặc .NET.
+Ngôn ngữ lập trình: HTML, CSS cho phát triển giao diện; JavaScript cho các tương tác phía client.
 
-Cơ sở dữ liệu: Thiết kế và triển khai trên SQL Server hoặc MySQL để quản lý dữ liệu một cách hiệu quả.
+Cơ sở dữ liệu: Thiết kế và triển khai trên SQLSever để quản lý dữ liệu một cách hiệu quả.
 
-Tools thiết kế và phát triển: Sử dụng Figma cho thiết kế, Visual Studio Code hoặc bất kỳ trình biên tập nào khác cho phát triển, và công cụ quản lý phiên bản Git.
+Tools thiết kế và phát triển: Sử dụng Figma cho thiết kế, Visual Studio Code cho phát triển, và công cụ quản lý phiên bản Git.
 
 Hướng Phát Triển
 
@@ -61,3 +61,5 @@ Dashboard: Tổng quan nhanh chóng về các chỉ số quan trọng như số 
 Quản lý nhân viên: Giao diện thân thiện cho phép thêm, sửa, xóa và tìm kiếm thông tin nhân viên dễ dàng.
 
 Báo cáo: Các báo cáo đa dạng về hiệu suất, chấm công, và các phân tích nhân sự khác được trình bày một cách trực quan.
+
+Link thiết kế giao diện: https://www.figma.com/design/pG0qRgdXislvL4Hc3bd70Z/Qu%E1%BA%A3n-L%C3%BD-Nh%C3%A2n-Vi%C3%AAn---Group14?node-id=0-1&p=f&t=0KUPCp2EFd8K0bpJ-0
